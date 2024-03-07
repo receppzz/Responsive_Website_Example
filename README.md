@@ -1,4 +1,4 @@
-#Responsive WebSite Example
+# Responsive WebSite Example
 ![bootstrap](https://github.com/receppzz/Responsive_Website_Example/assets/135069827/6e0ab6c2-aca1-4880-b52f-77d735e9a27a)
 
 
